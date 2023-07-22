@@ -10,9 +10,7 @@ a {
   transition: color 0.2s ease-in-out; /* Add smooth transition on link color change */
 }
 
-a:hover {
-  color: #FF6347; /* Change link color on hover to a darker shade of orange */
-}
+
 
 .table-container {
   max-height: 600px; /* Reduce the maximum height for a more concise view */
@@ -36,16 +34,12 @@ td {
 }
 
 th {
-  background-color: #FF6347; /* Change header background color to a shade of red */
+  background-color: #c2fc77; /* Change header background color to a shade of red */
   color: #ffffff; /* Change header text color to white */
   text-transform: uppercase; /* Convert header text to uppercase */
   font-weight: bold; /* Add bold font weight to the headers */
 }
 
-tr:hover {
-  background-color: #f2f2f2; /* Slightly darken the hover background color */
-  transition: background-color 0.2s ease-in-out;
-}
 
 
 
