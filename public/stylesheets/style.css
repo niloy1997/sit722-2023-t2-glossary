@@ -1,0 +1,57 @@
+body {
+  padding: 30px; /* Reduce padding for a more compact layout */
+  font: 16px "Arial", sans-serif; /* Slightly larger font size and different font-family */
+  background-color: #f7f7f7; /* Set a light background color */
+}
+
+a {
+  color: #FF7F50; /* Change link color to a shade of orange */
+  text-decoration: none; /* Remove underline from links */
+  transition: color 0.2s ease-in-out; /* Add smooth transition on link color change */
+}
+
+a:hover {
+  color: #FF6347; /* Change link color on hover to a darker shade of orange */
+}
+
+.table-container {
+  max-height: 600px; /* Reduce the maximum height for a more concise view */
+  overflow-y: auto;
+}
+
+table {
+  border-collapse: separate; /* Add space between table cells */
+  border-spacing: 0;
+  width: 100%;
+  margin-top: 30px; /* Slightly increase the margin-top for better spacing */
+  background-color: #ffffff; /* Set a white background color for the table */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Increase the shadow effect */
+}
+
+th,
+td {
+  border: 1px solid #e1e1e1; /* Lighten the table border color */
+  text-align: center; /* Center align the table content */
+  padding: 15px; /* Increase padding for better spacing */
+}
+
+th {
+  background-color: #FF6347; /* Change header background color to a shade of red */
+  color: #ffffff; /* Change header text color to white */
+  text-transform: uppercase; /* Convert header text to uppercase */
+  font-weight: bold; /* Add bold font weight to the headers */
+}
+
+tr:hover {
+  background-color: #f2f2f2; /* Slightly darken the hover background color */
+  transition: background-color 0.2s ease-in-out;
+}
+
+
+
+p {
+  text-align: center;
+  font-family: "Verdana", sans-serif; /* Change font-family for paragraphs */
+  font-size: 18px; /* Increase font size for paragraphs */
+  margin-bottom: 30px; /* Increase the margin-bottom for better spacing */
+}
