@@ -1,7 +1,7 @@
 body {
   padding: 30px; /* Reduce padding for a more compact layout */
   font: 16px "Arial", sans-serif; /* Slightly larger font size and different font-family */
-  background-color: #f7f7f7; /* Set a light background color */
+  background-color: #71c1d7; /* Set a light background color */
 }
 
 a {
@@ -12,10 +12,7 @@ a {
 
 
 
-.table-container {
-  max-height: 600px; /* Reduce the maximum height for a more concise view */
-  overflow-y: auto;
-}
+
 
 table {
   border-collapse: separate; /* Add space between table cells */
