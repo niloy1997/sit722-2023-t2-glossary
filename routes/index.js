@@ -23,7 +23,6 @@ const list = [
       'Biotechnology involves using living organisms and biological systems to develop products and technologies that benefit various industries, including medicine and agriculture.',
     reference: 'Campbell, P. K. (2015). Biotechnology: An Introduction (4th ed.). Cengage Learning.',
   },
-  // Add the other 7 glossary terms here...
   {
     id: 4,
     Term: 'Climate Change',
@@ -45,12 +44,27 @@ const list = [
     Description:
       'AI refers to the simulation of human intelligence in machines that are programmed to perform tasks requiring human-like cognitive abilities, such as learning, problem-solving, and decision-making.',
     reference: 'Russell, S. J., & Norvig, P. (2016). Artificial Intelligence: A Modern Approach (3rd ed.). Pearson.',
-  },{
+  },
+  {
     id: 7,
-    Term: 'Quantum Computing',
+    Term: 'Space Exploration',
     Description:
-      'Quantum computing utilizes principles of quantum mechanics to process information, offering the potential for exponential speedup in solving complex problems.',
-    reference: 'Preskill, J. (2018). Quantum Computing in the NISQ era and beyond. Quantum, 2, 79.',
+      'Space exploration is the investigation and study of outer space through the use of spacecraft and other technologies.',
+    reference: 'Levin, G. V. (2004). Spaceflight and Life Sciences: Space Biology and Medicine. NASA Ames Research Center.',
+  },
+  {
+    id: 8,
+    Term: 'Renewable Energy',
+    Description:
+      'Renewable energy is energy that is collected from renewable resources, such as sunlight, wind, rain, tides, and geothermal heat, which are naturally replenished.',
+    reference: 'Boyle, G., Everett, B., & Ramage, J. (2012). Energy Systems and Sustainability: Power for a Sustainable Future (2nd ed.). Oxford University Press.',
+  },
+  {
+    id: 9,
+    Term: 'Virtual Reality',
+    Description:
+      'Virtual Reality (VR) is a computer-generated simulation of a three-dimensional environment that users can interact with in a seemingly real or physical way.',
+    reference: 'Burdea, G. C., & Coiffet, P. (2003). Virtual Reality Technology (2nd ed.). Wiley-IEEE Press.',
   },
 ];
 
