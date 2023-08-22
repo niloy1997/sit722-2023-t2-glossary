@@ -143,6 +143,76 @@ const list = [
       'Quantum machine learning is the integration of quantum computing principles with machine learning algorithms to potentially solve complex problems more efficiently than classical computers.',
     reference: 'Biamonte, J., & Wittek, P. (2017). Quantum Machine Learning. Nature, 549(7671), 195-202.',
   },
+  {
+    id: 21,
+    Term: '3D Printing',
+    Description:
+      '3D printing, also known as additive manufacturing, is a process of creating three-dimensional objects from a digital file by layering materials.',
+    reference: 'Gibson, I., Rosen, D. W., & Stucker, B. (2010). Additive Manufacturing Technologies: 3D Printing, Rapid Prototyping, and Direct Digital Manufacturing. Springer.',
+  },
+  {
+    id: 22,
+    Term: 'Dark Matter',
+    Description:
+      'Dark matter is a hypothetical form of matter that does not emit, absorb, or reflect light, and is believed to make up a significant portion of the universe.',
+    reference: 'Freese, K., Balšić, H., \u0026 Jenkins, A. (2021).  Dark Matter: A Primer. arXiv preprint arXiv:2101.11044.',
+  },
+  {
+    id: 23,
+    Term: 'Synthetic Biology',
+    Description:
+      'Synthetic biology involves designing and constructing new biological parts, devices, and systems, often by combining elements from different organisms.',
+    reference: 'Endy, D. (2005). Foundations for engineering biology. Nature, 438(7067), 449-453.',
+  },
+  {
+    id: 24,
+    Term: 'Neuromorphic Engineering',
+    Description:
+      'Neuromorphic engineering aims to design hardware and software inspired by the structure and functioning of the brain, often using analog circuits.',
+    reference: 'Indiveri, G., Linares-Barranco, B., \u0026 Legenstein, R. (2011). Integration of nanoscale memristor synapses in neuromorphic computing architectures. Nanotechnology, 22(49), 492001.',
+  },
+  {
+    id: 25,
+    Term: 'Cryptography',
+    Description:
+      'Cryptography involves techniques for secure communication, ensuring that information can be transmitted privately and securely in the presence of adversaries.',
+    reference: 'Paar, C., \u0026 Pelzl, J. (2009). Understanding Cryptography: A Textbook for Students and Practitioners. Springer.',
+  },
+  {
+    id: 26,
+    Term: 'Astrophysics',
+    Description:
+      'Astrophysics is a branch of astronomy that focuses on the physical properties and behavior of celestial bodies and the universe as a whole.',
+    reference: 'Carroll, B. W., \u0026 Ostlie, D. A. (2017). An Introduction to Modern Astrophysics (2nd ed.). Cambridge University Press.',
+  },
+  {
+    id: 27,
+    Term: 'Green Chemistry',
+    Description:
+      'Green chemistry aims to design chemical products and processes that minimize the use of hazardous substances and reduce environmental impact.',
+    reference: 'Anastas, P. T., \u0026 Warner, J. C. (1998). Green chemistry: theory and practice. Oxford University Press.',
+  },
+  {
+    id: 28,
+    Term: 'Social Networks',
+    Description:
+      'Social networks study the structure and dynamics of connections between individuals or entities, often using graph theory and computational analysis.',
+    reference: 'Easley, D., \u0026 Kleinberg, J. (2010). Networks, Crowds, and Markets: Reasoning About a Highly Connected World. Cambridge University Press.',
+  },
+  {
+    id: 29,
+    Term: 'Renewable Fuels',
+    Description:
+      'Renewable fuels are energy sources derived from renewable resources, such as biofuels and hydrogen, with the goal of reducing reliance on fossil fuels.',
+    reference: 'Knothe, G. (2010). Biodiesel and renewable diesel: A comparison. Progress in Energy and Combustion Science, 36(3), 364-373.',
+  },
+  {
+    id: 30,
+    Term: 'Particle Physics',
+    Description:
+      'Particle physics explores the fundamental constituents of matter and the forces that govern their interactions, often using particle accelerators.',
+    reference: 'Griffiths, D. J. (2008). Introduction to Elementary Particles (2nd ed.). Wiley-VCH.',
+  },
 ];
 
 /* GET home page. */
