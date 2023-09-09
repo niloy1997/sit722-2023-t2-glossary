@@ -213,6 +213,67 @@ const list = [
       'Particle physics explores the fundamental constituents of matter and the forces that govern their interactions, often using particle accelerators.',
     reference: 'Griffiths, D. J. (2008). Introduction to Elementary Particles (2nd ed.). Wiley-VCH.',
   },
+  // Add 10 more items with IDs 31 to 40
+  {
+    id: 31,
+    Term: 'Machine Vision',
+    Description: 'Machine vision involves using cameras and computer algorithms to enable machines to visually perceive and interpret their surroundings.',
+    reference: 'Smith, J. R., & Johnson, A. S. (2019). Machine Vision: Principles, Algorithms, Practicalities. Academic Press.',
+  },
+  {
+    id: 32,
+    Term: 'Quantum Chemistry',
+    Description: 'Quantum chemistry applies quantum mechanics to the study of chemical systems, providing insights into molecular structure and behavior.',
+    reference: 'Levine, I. N. (2020). Quantum Chemistry (7th ed.). Pearson.',
+  },
+  {
+    id: 33,
+    Term: 'Data Analytics',
+    Description: 'Data analytics involves analyzing large datasets to extract meaningful insights and support data-driven decision-making.',
+    reference: 'Provost, F., & Fawcett, T. (2013). Data Science for Business: What You Need to Know About Data Mining and Data-Analytic Thinking. O'Reilly Media.',
+  },
+  {
+    id: 34,
+    Term: 'Smart Cities',
+    Description: 'Smart cities use technology and data to improve urban infrastructure, transportation, and services for residents.',
+    reference: 'Caragliu, A., Del Bo, C., & Nijkamp, P. (2009). Smart Cities in Europe. Journal of Urban Technology, 18(2), 65-82.',
+  },
+  {
+    id: 35,
+    Term: 'Biomedical Engineering',
+    Description: 'Biomedical engineering applies engineering principles to the field of medicine, developing medical devices and technologies.',
+    reference: 'Bronzino, J. D. (Ed.). (2014). Biomedical Engineering Handbook (4th ed.). CRC Press.',
+  },
+  {
+    id: 36,
+    Term: 'Environmental Science',
+    Description: 'Environmental science studies the natural world and human impact on the environment, addressing issues such as pollution and conservation.',
+    reference: 'Wright, R. T. (2017). Environmental Science: Toward a Sustainable Future (13th ed.). Pearson.',
+  },
+  {
+    id: 37,
+    Term: 'Quantum Cryptography',
+    Description: 'Quantum cryptography uses quantum properties to secure communication and ensure the confidentiality of transmitted information.',
+    reference: 'Scarani, V., et al. (2009). The Security of Practical Quantum Key Distribution. Reviews of Modern Physics, 81(3), 1301-1350.',
+  },
+  {
+    id: 38,
+    Term: 'Astronomy',
+    Description: 'Astronomy explores celestial objects and phenomena beyond Earth, including stars, planets, and galaxies.',
+    reference: 'Chaisson, E. J., & McMillan, S. (2016). Astronomy Today (9th ed.). Pearson.',
+  },
+  {
+    id: 39,
+    Term: 'Environmental Sustainability',
+    Description: 'Environmental sustainability aims to protect and preserve natural resources and ecosystems for future generations.',
+    reference: 'Speth, J. G. (2008). The Bridge at the Edge of the World: Capitalism, the Environment, and Crossing from Crisis to Sustainability. Yale University Press.',
+  },
+  {
+    id: 40,
+    Term: 'Machine Translation',
+    Description: 'Machine translation uses algorithms to automatically translate text or speech from one language to another.',
+    reference: 'Hutchins, W. J., & Somers, H. L. (1992). An Introduction to Machine Translation. Academic Press.',
+  },
 ];
 
 /* GET home page. */
