@@ -230,7 +230,7 @@ const list = [
     id: 33,
     Term: 'Data Analytics',
     Description: 'Data analytics involves analyzing large datasets to extract meaningful insights and support data-driven decision-making.',
-    reference: 'Provost, F., & Fawcett, T. (2013). Data Science for Business: What You Need to Know About Data Mining and Data-Analytic Thinking. O'Reilly Media.',
+    reference: 'Provost, F., & Fawcett, T. (2013). Data Science for Business: What You Need to Know About Data Mining and Data-Analytic Thinking. O Reilly Media.',
   },
   {
     id: 34,
