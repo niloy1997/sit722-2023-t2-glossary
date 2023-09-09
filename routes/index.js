@@ -274,6 +274,68 @@ const list = [
     Description: 'Machine translation uses algorithms to automatically translate text or speech from one language to another.',
     reference: 'Hutchins, W. J., & Somers, H. L. (1992). An Introduction to Machine Translation. Academic Press.',
   },
+  // Add 10 more items with IDs 41 to 50
+  {
+    id: 41,
+    Term: 'Virtual Assistants',
+    Description: 'Virtual assistants are AI-powered software or devices that provide information and perform tasks in response to voice commands or text input.',
+    reference: 'Chen, L., & Rudnicky, A. I. (2000). A survey of spoken language technology for air travel applications. Journal of the American Society for Information Science, 51(11), 1007-1021.',
+  },
+  {
+    id: 42,
+    Term: 'Bioinformatics',
+    Description: 'Bioinformatics combines biology and computer science to analyze and interpret biological data, such as DNA sequences and protein structures.',
+    reference: 'Mount, D. W. (2004). Bioinformatics: Sequence and Genome Analysis (2nd ed.). Cold Spring Harbor Laboratory Press.',
+  },
+  {
+    id: 43,
+    Term: 'Internet of Things (IoT)',
+    Description: 'IoT refers to the network of interconnected devices and objects that can collect and exchange data, enabling automation and smarter decision-making.',
+    reference: 'Atzori, L., Iera, A., & Morabito, G. (2010). The Internet of Things: A survey. Computer Networks, 54(15), 2787-2805.',
+  },
+  {
+    id: 44,
+    Term: 'Clean Energy Technologies',
+    Description: 'Clean energy technologies include renewable energy sources like solar and wind power, as well as energy-efficient technologies to reduce carbon emissions.',
+    reference: 'Boyle, G., Everett, B., & Ramage, J. (2012). Energy Systems and Sustainability: Power for a Sustainable Future (2nd ed.). Oxford University Press.',
+  },
+  {
+    id: 45,
+    Term: 'Artificial Neural Networks',
+    Description: 'Artificial neural networks are computational models inspired by the human brain, used for tasks such as pattern recognition and machine learning.',
+    reference: 'Haykin, S. (1999). Neural Networks: A Comprehensive Foundation (2nd ed.). Prentice Hall.',
+  },
+  {
+    id: 46,
+    Term: 'Augmented Reality (AR) Gaming',
+    Description: 'AR gaming combines real-world environments with digital elements to create interactive and immersive gaming experiences.',
+    reference: 'Broll, W., Ohlenburg, J., & Lindt, I. (2004). Mixed reality: merging real and virtual worlds. Springer.',
+  },
+  {
+    id: 47,
+    Term: 'Ethical Hacking',
+    Description: 'Ethical hacking involves testing computer systems and networks for vulnerabilities to help organizations improve their security.',
+    reference: 'Engebretson, P. (2018). The Basics of Hacking and Penetration Testing: Ethical Hacking and Penetration Testing Made Easy. Syngress.',
+  },
+  {
+    id: 48,
+    Term: 'Biomedical Imaging',
+    Description: 'Biomedical imaging techniques like MRI and CT scans are used to visualize the internal structures of the human body for diagnosis and research.',
+    reference: 'Webb, A. (2006). Introduction to Biomedical Imaging. Wiley-IEEE Press.',
+  },
+  {
+    id: 49,
+    Term: 'Natural Language Processing (NLP)',
+    Description: 'NLP focuses on enabling computers to understand, interpret, and generate human language, enabling applications like chatbots and language translation.',
+    reference: 'Jurafsky, D., & Martin, J. H. (2020). Speech and Language Processing (3rd ed.). Pearson.',
+  },
+  {
+    id: 50,
+    Term: 'Quantum Teleportation',
+    Description: 'Quantum teleportation is a phenomenon in quantum physics where the quantum state of one particle can be transmitted to another, separated by a distance.',
+    reference: 'Bouwmeester, D., Pan, J., Mattle, K., Eibl, M., Weinfurter, H., & Zeilinger, A. (1997). Experimental quantum teleportation. Nature, 390(6660), 575-579.',
+  },
+  
 ];
 
 /* GET home page. */
